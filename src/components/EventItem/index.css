@@ -1,0 +1,20 @@
+/* Write your CSS here */
+* {
+  font-family: 'Roboto';
+}
+
+.list-container {
+  margin: 25px;
+  color: white;
+  font-weight: 500;
+}
+
+.event-image {
+  height: 120px;
+  width: 200px;
+}
+
+.image-button{
+  border-style: none;
+  background-color: transparent;
+}

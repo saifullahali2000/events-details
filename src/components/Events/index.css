@@ -1,0 +1,44 @@
+/* Write your CSS here */
+.full-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.bg-container {
+  background-color: #475569;
+  width: 60%;
+}
+
+.lists-item {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.registration-details {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 70px;
+  width: 40%;
+}
+
+.image-edit1 {
+  height: 200px;
+  width: 200px;
+}
+
+.image-edit3{
+  height: 200px;
+  width: 200px;
+}
+.button-element {
+  background-color: #0967d2;
+  border-style: none;
+  border-radius: 6px;
+  color: white;
+  padding: 10px;
+}
